@@ -45,7 +45,7 @@
     "parseurl": "latest",
     "pause": "latest",
     "send": "latest",
-    "terraform": "latest"
+    "terraform": "github:lafama/terraform#master"
   },
   "devDependencies": {
     "cheerio": "0.19.0",
